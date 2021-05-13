@@ -1,0 +1,30 @@
+{
+    "name": "purple-blue-dark",
+    "displayName": "purple-blue-dark",
+    "description": "Purple Blue Dark Theme for VSCode.",
+    "publisher": "bakrimoharram",
+    "author": {
+        "name": "Bakri Moharram",
+        "email": "bakri_moharram@hotmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/bakrimoharram/purple-blue-theme.git",
+        "type": "git"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple-Blue-Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple-Blue-Dark-color-theme.json"
+            }
+        ]
+    }
+}
