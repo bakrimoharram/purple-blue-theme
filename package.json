@@ -11,7 +11,7 @@
         "url": "https://github.com/bakrimoharram/purple-blue-theme.git",
         "type": "git"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
